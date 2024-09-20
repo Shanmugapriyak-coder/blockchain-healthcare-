@@ -1,0 +1,27 @@
+
+A Blockchain-based Approach for Drug Traceability in Healthcare Supply Chain
+
+
+Blockchain-Based Drug Traceability in Healthcare Supply Chain
+Developed and implemented a blockchain-based solution to enhance drug traceability and transparency within the healthcare supply chain. The project aimed to ensure the integrity of pharmaceutical products, prevent counterfeit drugs, and streamline logistics. Utilized smart contracts and distributed ledger technology to track drug movements from manufacturers to end-users, improving accountability and security while reducing errors and delays. Focused on ensuring regulatory compliance and secure, real-time data sharing among stakeholders.
+
+Admin
+Login the account with correct username and Password
+Add catergory
+Add product
+Manage product and view new order 
+View all purchased drugs
+View Top-K drugs and user review
+Graph 
+Logout
+
+User
+
+Register the account with the basic information
+ login the account with  correct username and password
+User can search drug based on dieases
+View order status
+User can purchase the drugs
+User acn give review and rating
+View top K Drugs
+Logout
